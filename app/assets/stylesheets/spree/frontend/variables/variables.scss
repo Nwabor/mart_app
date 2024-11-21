@@ -1,10 +1,10 @@
 // main spree variables
-$primary-color: #000;
+$primary-color: #1994F2;
 $secondary-color: #4c4c4c;
 $primary-background: #ffffff;
 $secondary-background: #f2f2f2;
 $input-background: #ffffff;
-$font-color: black;
+$font-color: #363636;
 $font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $header-font-color: $font-color;
 $header-background: $primary-background;
@@ -40,10 +40,10 @@ $theme-colors: (
 );
 
 $enable-responsive-font-sizes: true;
-$font-size-base:   0.813rem !default;
-$font-size-plus:   0.875rem !default;
-$font-size-sm:    0.75rem !default;
-$font-size-lg:    1rem !default;
+$font-size-base:   1rem !default;
+$font-size-plus:   1rem !default;
+$font-size-sm:    1.2rem !default;
+$font-size-lg:    1.5rem !default;
 
 $border-radius: 0.5rem !default;
 $border-radius-sm: 0.4rem !default;
